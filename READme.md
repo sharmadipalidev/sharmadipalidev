@@ -17,10 +17,9 @@ Full Stack Developer • DevOps Enthusiast •  AI Explorer
 
 ## 🚀 About Me
 
-- 🔭 Working on **Full Stack Development & DevOps**
-- 🌱 Currently learning **Kubernetes, AWS, CI/CD & System Design**
+- 🔭 Working on **Full Stack Development**
+- 🌱 Currently learning **DevOps & System Design**
 - 💡 Interested in **AI, Backend Engineering & Cloud**
-- 👯 Open Source Contributor
 - 💬 Ask me about **JavaScript, Node.js, APIs, Docker**
 - ⚡ Fun fact: **I debug faster after coffee ☕**
 - 📫 Reach me at: **sharmadipali.dev@gamil.com**
@@ -81,7 +80,7 @@ Full Stack Developer • DevOps Enthusiast •  AI Explorer
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Analytics and Stats
 
 
 <p align="center">
