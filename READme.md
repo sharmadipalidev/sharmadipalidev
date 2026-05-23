@@ -34,6 +34,7 @@ Full Stack Developer • DevOps Enthusiast •  AI Explorer
       src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" 
       width="80" 
       height="80" 
+      style="background: transparent;"
       alt="LinkedIn"
     />
   </a>
@@ -43,16 +44,18 @@ Full Stack Developer • DevOps Enthusiast •  AI Explorer
       src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" 
       width="80" 
       height="80" 
+      style="background: transparent;"
       alt="X"
     />
   </a>
 
   <a href="https://hashnode.com/@sharmadipalidev" target="_blank">
     <img 
-      src="https://cdn.simpleicons.org/hashnode/2962FF" 
+      src="https://cdn.simpleicons.org/hashnode/2962FF"
       width="60" 
-      height="80" 
-      alt="Hashnode"
+      height="80"
+      style="background: transparent; border-radius: 0; box-shadow: none;"
+      alt="Hashnode";
     />
   </a>
 </p>
