@@ -21,7 +21,6 @@ Full Stack Developer • DevOps Enthusiast •  AI Explorer
 - 🌱 Currently learning **DevOps & System Design**
 - 💡 Interested in **AI, Backend Engineering & Cloud**
 - 💬 Ask me about **JavaScript, Node.js, APIs, Docker**
-- ⚡ Fun fact: **I debug faster after coffee ☕**
 - 📫 Reach me at: **sharmadipali.dev@gamil.com**
 
 ---
