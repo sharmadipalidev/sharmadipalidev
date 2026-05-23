@@ -5,7 +5,7 @@ Full Stack Developer • DevOps Enthusiast •  AI Explorer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Learner;Open+Source+Contributor;Backend+Engineer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Learner;Backend+Engineer;Always+Learning+New+Things" />
 </p>
 
 ---
