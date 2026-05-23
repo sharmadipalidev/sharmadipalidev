@@ -21,7 +21,7 @@ Full Stack Developer • DevOps Lerner • Building with AI
 - 🌱 Currently learning **DevOps & System Design**
 - 💡 Interested in **AI, Backend Engineering & Cloud**
 - 💬 Ask me about **JavaScript, Node.js, APIs, Docker**
-- Blogs at: https://hashnode.com/@sharmadipalidev
+- 📝 Blogs at: [Hashnode](https://hashnode.com/@sharmadipalidev)
 - 📫 Reach me at: **sharmadipali.dev@gamil.com**
 
 ---
