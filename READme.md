@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Dipali Sharma</h1>
+<h1 align="center">Hello🌻, I'm Dipali Sharma</h1>
 
 <h3 align="center">
 Full Stack Developer • DevOps Enthusiast •  AI Explorer
@@ -6,6 +6,9 @@ Full Stack Developer • DevOps Enthusiast •  AI Explorer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Learner;Backend+Engineer;Always+Learning+New+Things" />
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sharmadipalidev&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="DipaliSharma" />
 </p>
 
 ---
@@ -20,7 +23,7 @@ Full Stack Developer • DevOps Enthusiast •  AI Explorer
 - 👯 Open Source Contributor
 - 💬 Ask me about **JavaScript, Node.js, APIs, Docker**
 - ⚡ Fun fact: **I debug faster after coffee ☕**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **sharmadipali.dev@gamil.com**
 
 ---
 
@@ -63,6 +66,7 @@ Full Stack Developer • DevOps Enthusiast •  AI Explorer
 
 # 📊 GitHub Analytics
 
+
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharmadipalidev&show_icons=true&theme=tokyonight&hide_border=true" />
   
@@ -72,6 +76,22 @@ Full Stack Developer • DevOps Enthusiast •  AI Explorer
 <p align="center">
   <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharmadipalidev&theme=tokyo-night&hide_border=true" />
 </p>
+
+
+
+  
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmadipalidev&theme=tokyonight">
+  
+</div> 
+
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharmadipalidev&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaemadipalidev&theme=tokyonight">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmadipalidev&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharmadipalidev&theme=tokyonight&utcOffset=8">
 
 ---
 
@@ -83,19 +103,13 @@ Full Stack Developer • DevOps Enthusiast •  AI Explorer
 
 ---
 
-# 📈 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sharmadipalidev/sharmadipalidev/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 # 🎯 Current Goals
 
 - ✅ Become a better Backend Engineer
 - ✅ Master DevOps & Cloud
-- ✅ Contribute more to Open Source
+- ✅ Contribute in Open Source
 - ✅ Build scalable full-stack projects
 - ✅ Learn AI integrations in web apps
 
@@ -109,19 +123,4 @@ Full Stack Developer • DevOps Enthusiast •  AI Explorer
 
 ---
 
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharmadipalidev&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
-
----
-
-# 🎵 Spotify Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxx&cover_image=true&theme=novatorem" />
-</p>
-
----
 
