@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Dipali Sharma</h1>
 
 <h3 align="center">
-Full Stack Developer • DevOps Enthusiast • Open Source Contributor • AI Explorer
+Full Stack Developer • DevOps Enthusiast •  AI Explorer
 </h3>
 
 <p align="center">
