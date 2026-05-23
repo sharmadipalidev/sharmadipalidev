@@ -13,7 +13,7 @@ Full Stack Developer • DevOps Lerner • Building with AI
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://system-official.site/tools/files/file_6a113543421ca5.02856803.png" >
+<img align="right" alt="Coding" width="350" src="https://system-official.site/tools/files/file_6a113543421ca5.02856803.png" >
 
 ## 🚀 About Me
 
