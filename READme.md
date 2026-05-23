@@ -29,16 +29,33 @@ Full Stack Developer • DevOps Enthusiast •  AI Explorer
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/sharmadipalidev/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80">
-</a>
-<a href="https://x.com/sharmadipalidev" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80">
-</a>
-<a href="https://hashnode.com/@sharmadipalidev"  target="_blank">
-  <img src="https://system-official.site/tools/files/file_6a1124c86fd274.44191355.png" width="60" margin-bottom="10px">
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sharmadipalidev/" target="_blank">
+    <img 
+      src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" 
+      width="80" 
+      height="80" 
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://x.com/sharmadipalidev" target="_blank">
+    <img 
+      src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" 
+      width="80" 
+      height="80" 
+      alt="X"
+    />
+  </a>
+
+  <a href="https://hashnode.com/@sharmadipalidev" target="_blank">
+    <img 
+      src="https://cdn.simpleicons.org/hashnode/2962FF" 
+      width="60" 
+      height="80" 
+      alt="Hashnode"
+    />
+  </a>
 </p>
 
 ---
