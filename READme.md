@@ -48,7 +48,7 @@ Full Stack Developer • DevOps Lerner • Building with AI
 
 - ✅ Become a better Backend Engineer  
 - ✅ Master DevOps & Cloud  
-- ✅ Contribute in Open Source  
+- ✅ Contribute to Open Source 
 - ✅ Build scalable full-stack projects  
 - ✅ Learn AI integrations in web apps  
 
