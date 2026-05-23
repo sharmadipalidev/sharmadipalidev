@@ -1,19 +1,19 @@
 <h1 align="center">Hello🌻, I'm Dipali Sharma</h1>
 
 <h3 align="center">
-Full Stack Developer • DevOps Enthusiast •  AI Explorer
+Full Stack Developer • DevOps Lerner • Building with AI
 </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Learner;Backend+Engineer;Always+Learning+New+Things" />
 </p>
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sharmadipalidev&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="DipaliSharma" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+<img align="right" alt="Coding" width="380" src="https://system-official.site/tools/files/file_6a113543421ca5.02856803.png">
 
 ## 🚀 About Me
 
@@ -21,43 +21,36 @@ Full Stack Developer • DevOps Enthusiast •  AI Explorer
 - 🌱 Currently learning **DevOps & System Design**
 - 💡 Interested in **AI, Backend Engineering & Cloud**
 - 💬 Ask me about **JavaScript, Node.js, APIs, Docker**
+- Blogs at: https://hashnode.com/@sharmadipalidev
 - 📫 Reach me at: **sharmadipali.dev@gamil.com**
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sharmadipalidev/" target="_blank">
-    <img 
-      src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" 
-      width="80" 
-      height="80" 
-      style="background: transparent;"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://x.com/sharmadipalidev" target="_blank">
-    <img 
-      src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" 
-      width="80" 
-      height="80" 
-      style="background: transparent;"
-      alt="X"
-    />
-  </a>
-
-  <a href="https://hashnode.com/@sharmadipalidev" target="_blank">
-    <img 
-      src="https://cdn.simpleicons.org/hashnode/2962FF"
-      width="60" 
-      height="80"
-      style="background: transparent; border-radius: 0; box-shadow: none;"
-      alt="Hashnode";
-    />
-  </a>
+<p align="left">
+<a href="https://www.linkedin.com/in/sharmadipalidev/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80">
+</a>
+<a href="https://x.com/sharmadipalidev" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80">
+</a>
 </p>
+
+---
+
+
+<div align="left">
+
+# 🎯 Current Goals
+
+- ✅ Become a better Backend Engineer  
+- ✅ Master DevOps & Cloud  
+- ✅ Contribute in Open Source  
+- ✅ Build scalable full-stack projects  
+- ✅ Learn AI integrations in web apps  
+
+</div>
 
 ---
 
@@ -85,18 +78,6 @@ Full Stack Developer • DevOps Enthusiast •  AI Explorer
 # 📊 GitHub Analytics and Stats
 
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharmadipalidev&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmadipalidev&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharmadipalidev&theme=tokyo-night&hide_border=true" />
-</p>
-
-
-
   
 <div align="center">
 
@@ -107,31 +88,21 @@ Full Stack Developer • DevOps Enthusiast •  AI Explorer
 <div align="center">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharmadipalidev&theme=tokyonight">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaemadipalidev&theme=tokyonight">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmadipalidev&theme=tokyonight">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharmadipalidev&theme=tokyonight&utcOffset=8">
+
 
 ---
 
-# 🏆 GitHub Trophies
+<!--# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sharmadipalidev&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
+-->
 
 
-
-# 🎯 Current Goals
-
-- ✅ Become a better Backend Engineer
-- ✅ Master DevOps & Cloud
-- ✅ Contribute in Open Source
-- ✅ Build scalable full-stack projects
-- ✅ Learn AI integrations in web apps
-
-
----
 
 
